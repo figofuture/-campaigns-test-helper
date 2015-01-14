@@ -1,2 +1,2 @@
-# -campaigns-test-helper
+# campaigns-test-helper
 Tracking Campaigns Testing helper
